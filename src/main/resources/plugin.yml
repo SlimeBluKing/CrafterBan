@@ -1,0 +1,6 @@
+name: CrafterBan
+version: '${project.version}'
+main: com.slime.crafterban.CrafterBan
+api-version: 1.19
+authors: [ SlimeBluKing ]
+description: Plugin per The_craft3r
