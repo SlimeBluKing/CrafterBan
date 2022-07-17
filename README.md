@@ -6,6 +6,6 @@ Per chi è curioso ho lasciato il souce code del plugin (VERAMENTE SEMPLICE) che
 
 Il plugin è fatto per 1.19 e va compilato/eseguito con Java 11 o superiore.
 
-**Video:** *In attesa che lui lo mette su YT*
+**Video:** *https://youtu.be/6fvNC8qmUSI*
 
 **Il plugin non è per la moderazione del server**
